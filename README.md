@@ -54,8 +54,8 @@ public class Bernardo {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardodoJAVAKKj/BernardodoJAVAKKj/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/BernardodoJAVAKKj/BernardodoJAVAKKj/output/github-snake.svg" alt="snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviBernardosouzs/DaviBernardosouzs/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/DaviBernardosouzs/DaviBernardosouzs/output/github-snake.svg" alt="snake"/>
 </picture>
 
 </div>
