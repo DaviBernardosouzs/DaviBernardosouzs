@@ -42,10 +42,10 @@ public class Bernardo {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardodoJAVAKKj&show_icons=true&theme=radical&hide_border=true&bg_color=0b0620&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardodoJAVAKKj&layout=compact&theme=radical&hide_border=true&bg_color=0b0620&title_color=a78bfa&text_color=e5e7eb"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviBernardosouzsj&show_icons=true&theme=radical&hide_border=true&bg_color=0b0620&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBernardosouzs&layout=compact&theme=radical&hide_border=true&bg_color=0b0620&title_color=a78bfa&text_color=e5e7eb"/>
 
-<img src="https://streak-stats.demolab.com?user=BernardodoJAVAKKj&theme=radical&hide_border=true&background=0b0620&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=DaviBernardosouzs&theme=radical&hide_border=true&background=0b0620&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa" alt="streak"/>
 
 </div>
 
