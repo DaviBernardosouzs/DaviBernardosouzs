@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="146" viewBox="0 0 600 146" role="img" aria-label="SKILLFORGE">
+<defs><linearGradient id="bg"><stop stop-color="#0d1823"/><stop offset="1" stop-color="#0b121b"/></linearGradient></defs>
+<rect x=".5" y=".5" width="599" height="145" rx="12" fill="url(#bg)" stroke="#263845"/>
+<path d="M28 1H164" stroke="#73adff" stroke-width="2"/>
+<path d="M442 146L529 59H600M496 146L575 67H600M548 146L600 94" fill="none" stroke="#73adff" opacity=".1"/>
+<text x="573" y="31" text-anchor="end" fill="#7d94a5" font-size="10" font-family="monospace">02 / PROJECT</text>
+<rect x="25" y="41" width="65" height="70" rx="15" fill="#73adff" fill-opacity=".07"/>
+<g transform="translate(30 40)" stroke="#73adff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M13 29L28 21L43 29L28 37Z"/><path d="M13 29V47L28 56L43 47V29M28 37V56M19 24L35 33"/></g>
+<text x="110" y="58" font-size="10" letter-spacing="1.6" font-family="monospace" fill="#73adff">JAVA / AGENT TOOLING</text>
+<text x="107" y="94" font-size="31" font-weight="800" letter-spacing="-1" font-family="'DejaVu Sans',Arial,sans-serif" fill="#eaf5fc">SKILLFORGE</text>
+</svg>

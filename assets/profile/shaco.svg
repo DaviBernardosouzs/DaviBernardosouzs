@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="146" viewBox="0 0 600 146" role="img" aria-label="SHACO IA">
+<defs><linearGradient id="bg"><stop stop-color="#0d1823"/><stop offset="1" stop-color="#0b121b"/></linearGradient></defs>
+<rect x=".5" y=".5" width="599" height="145" rx="12" fill="url(#bg)" stroke="#263845"/>
+<path d="M28 1H164" stroke="#c4a2ff" stroke-width="2"/>
+<path d="M442 146L529 59H600M496 146L575 67H600M548 146L600 94" fill="none" stroke="#c4a2ff" opacity=".1"/>
+<text x="573" y="31" text-anchor="end" fill="#7d94a5" font-size="10" font-family="monospace">03 / PROJECT</text>
+<rect x="25" y="41" width="65" height="70" rx="15" fill="#c4a2ff" fill-opacity=".07"/>
+<g transform="translate(30 40)" stroke="#c4a2ff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M13 29H43V45L35 57H21L13 45Z"/><path d="M19 38L25 41M37 38L31 41M21 47Q28 54 35 47M13 29L10 17L25 28M43 29L46 17L31 28"/></g>
+<text x="110" y="58" font-size="10" letter-spacing="1.6" font-family="monospace" fill="#c4a2ff">GAMING / GENERATIVE AI</text>
+<text x="107" y="94" font-size="31" font-weight="800" letter-spacing="-1" font-family="'DejaVu Sans',Arial,sans-serif" fill="#eaf5fc">SHACO IA</text>
+</svg>

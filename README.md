@@ -1,67 +1,110 @@
 <div align="center">
 
-<img src="./assets/space-shooter.svg" width="100%" alt="Nave atirando em estrelas"/>
+<img src="./assets/profile/hero.svg" width="100%" alt="Davi Bernardo — Backend e Inteligência Artificial. Construindo APIs, assistentes e ferramentas com IA." />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Bernardo+%F0%9F%9A%80;Backend+Developer+%7C+Java+%2B+Spring+Boot;Fundador+da+Event+Horizon+Tech+%F0%9F%8C%8C;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unileste" alt="Typing SVG" />
-</a>
+<br />
 
-<br/>
-
-<a href="https://www.linkedin.com/in/davi-bernardo-souza-95243532b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:davibernardosouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=BernardodoJAVAKKj&color=7c3aed&style=for-the-badge&label=VISITANTES" alt="visitantes"/>
+<a href="https://www.linkedin.com/in/davi-bernardo-souza-95243532b/"><img src="./assets/profile/linkedin.svg" height="30" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:davibernardosouza@gmail.com"><img src="./assets/profile/email.svg" height="30" alt="Enviar e-mail" /></a>
+&nbsp;
+<a href="https://github.com/DaviBernardosouzs?tab=repositories"><img src="./assets/profile/repos.svg" height="30" alt="Ver meus repositórios" /></a>
 
 </div>
 
----
+<br />
 
-### 🪐 Sobre mim
+## `01` / Sobre mim
 
-```java
-public class Bernardo {
-    String nome       = "Davi Bernardo de Souza Gabriel";
-    String base       = "Vale do Aço, MG 🇧🇷";
-    String estudando  = "Ciência da Computação @ Unileste";
-    String foco       = "Backend com Java & Spring Boot";
-    String empresa    = "Event Horizon Tech — sites para negócios locais";
-    String[] curto    = {"Física", "Astrofísica", "Escrever"};
-    String objetivo   = "Construir sistemas que aguentem a gravidade de produção 🕳️";
-}
+Sou **Davi Bernardo**, desenvolvedor com foco em **backend e inteligência artificial aplicada**, estudante de Ciência da Computação na **Unileste**, em Minas Gerais.
+
+Desenvolvo APIs com **Java e Spring Boot** e exploro como conectar modelos de linguagem a ferramentas, voz, memória e automações. Meus projetos também passam por **Python**, **C# / .NET** e aplicações desktop: gosto de entender o caminho completo entre uma ideia e um sistema funcionando.
+
+```yaml
+foco:       Backend · APIs · IA aplicada
+construindo: Assistentes · Ferramentas para agentes · Integrações
+estudando:  Arquitetura de software · Sistemas distribuídos
+interesses: Física · Astrofísica · Escrita
 ```
 
-### 🛠️ Arsenal
+## `02` / Projetos em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DaviBernardosouzs/ultron"><img src="./assets/profile/ultron.svg" width="100%" alt="Ultron — assistente de voz e automação" /></a>
+<p><strong>Um assistente conectado ao mundo real.</strong></p>
+<p>Assistente em português que combina LLMs, reconhecimento e síntese de voz, memória e ferramentas para interagir com dispositivos da rede local.</p>
+<p>Integração via MCP, interface desktop e controle de permissões para ações.</p>
+<p><code>Python</code> <code>LLMs</code> <code>MCP</code> <code>Whisper</code> <code>Piper</code></p>
+<a href="https://github.com/DaviBernardosouzs/ultron"><strong>Explorar Ultron ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/DaviBernardosouzs/skillforge"><img src="./assets/profile/skillforge.svg" width="100%" alt="SkillForge — ferramentas para Agent Skills" /></a>
+<p><strong>Estrutura para o conhecimento dos agentes.</strong></p>
+<p>API que gera bibliotecas de Agent Skills como repositórios Git, com validação, templates e exportação em ZIP.</p>
+<p>Cada biblioteca também vira um vault do Obsidian, com um grafo de skills, referências e categorias.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>JGit</code> <code>Obsidian</code></p>
+<a href="https://github.com/DaviBernardosouzs/skillforge"><strong>Explorar SkillForge ↗</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DaviBernardosouzs/shaco-ia"><img src="./assets/profile/shaco.svg" width="100%" alt="Shaco IA — assistente para League of Legends" /></a>
+<p><strong>IA dentro da experiência de jogo.</strong></p>
+<p>Assistente para League of Legends com overlay, chat e voz, integração com Gemini e dados locais do jogo.</p>
+<p>Reúne recomendações de builds, reações aos eventos da partida e resumos com pontos de melhoria.</p>
+<p><code>JavaScript</code> <code>Electron</code> <code>Gemini</code> <code>APIs</code></p>
+<a href="https://github.com/DaviBernardosouzs/shaco-ia"><strong>Explorar Shaco IA ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/DaviBernardosouzs/route-pulse"><img src="./assets/profile/routepulse.svg" width="100%" alt="RoutePulse — geolocalização em tempo real" /></a>
+<p><strong>Do navegador ao mapa, em tempo real.</strong></p>
+<p>Protótipo de rastreamento que captura a geolocalização no navegador, transmite coordenadas pelo SignalR e atualiza um mapa interativo.</p>
+<p>Projeto de estudo sobre comunicação em tempo real e integração entre frontend e backend.</p>
+<p><code>C#</code> <code>ASP.NET Core</code> <code>SignalR</code> <code>React</code></p>
+<a href="https://github.com/DaviBernardosouzs/route-pulse"><strong>Explorar RoutePulse ↗</strong></a>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,git,github,html,css,js,ts,react,linux,idea,vscode&perline=8" alt="tecnologias"/>
+**Mais backend:** [JWT Auth Service](https://github.com/DaviBernardosouzs/Jwt-Auth-Servicee) · autenticação com Spring Security e JWT — [FinTrack API](https://github.com/DaviBernardosouzs/FinTrack.API) · transações financeiras com ASP.NET Core e Entity Framework Core.
 
-</div>
+## `03` / Stack
 
-### 📊 Telemetria da nave
+<p>
+<img src="./assets/profile/java.svg" height="30" alt="Java" />
+<img src="./assets/profile/spring.svg" height="30" alt="Spring Boot" />
+<img src="./assets/profile/python.svg" height="30" alt="Python" />
+<img src="./assets/profile/dotnet.svg" height="30" alt="C# e .NET" />
+<img src="./assets/profile/mcp.svg" height="30" alt="MCP" />
+<img src="./assets/profile/docker.svg" height="30" alt="Docker" />
+</p>
 
-<div align="center">
+| Área | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Backend** | Java · Spring Boot · Spring Security · C# · ASP.NET Core |
+| **IA e automação** | Python · LLMs · MCP · Whisper · Piper · Ollama |
+| **Dados e persistência** | PostgreSQL · MySQL · SQLite · JPA / Hibernate · Entity Framework Core |
+| **Interfaces** | React · TypeScript · JavaScript · Electron |
+| **Ambiente e entrega** | Docker · Linux · Git · GitHub Actions · Maven |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviBernardosouzsj&show_icons=true&theme=radical&hide_border=true&bg_color=0b0620&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBernardosouzs&layout=compact&theme=radical&hide_border=true&bg_color=0b0620&title_color=a78bfa&text_color=e5e7eb"/>
+## `04` / IA na prática
 
-<img src="https://streak-stats.demolab.com?user=DaviBernardosouzs&theme=radical&hide_border=true&background=0b0620&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa" alt="streak"/>
+Meu interesse está em **transformar modelos de IA em ferramentas úteis**: assistentes que usam contexto, conversam por voz e se conectam a outros sistemas.
 
-</div>
+- **Agentes e ferramentas:** integrar LLMs a funções e serviços por chamadas de ferramentas e MCP.
+- **Voz e contexto:** conectar transcrição, síntese de fala, memória e fontes de conhecimento.
+- **Automações com controle:** trabalhar com permissões, confirmações e registro das ações executadas.
+- **Conhecimento organizado:** estruturar skills, documentação e grafos no Obsidian para apoiar os agentes.
 
-### 🐍 Devorando contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviBernardosouzs/DaviBernardosouzs/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/DaviBernardosouzs/DaviBernardosouzs/output/github-snake.svg" alt="snake"/>
-</picture>
-
-</div>
+<br />
 
 ---
 
 <div align="center">
-  <sub>🌌 "Além do horizonte de eventos, nada escapa — nem os bugs." 🌌</sub>
+<p><strong>Vamos conversar sobre backend, IA e boas ideias.</strong></p>
+<a href="mailto:davibernardosouza@gmail.com">davibernardosouza@gmail.com</a>
+<br /><br />
+<sub>Curiosidade para entender. Código para construir.</sub>
 </div>

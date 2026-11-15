@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Davi Bernardo — Backend e Inteligência Artificial</title>
+<desc id="desc">Banner escuro com circuitos animados, um processador e o nome Davi Bernardo. Java, Spring Boot, Python e sistemas com IA.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071018"/><stop offset="1" stop-color="#0a0f19"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#6ef7d3"/><stop offset="1" stop-color="#73adff"/></linearGradient>
+  <linearGradient id="chip" x2="1" y2="1"><stop stop-color="#173539"/><stop offset="1" stop-color="#0b1523"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#2dd4bf" stop-opacity=".15"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#72a5b8" stroke-opacity=".065"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+  <clipPath id="round"><rect x="1" y="1" width="1198" height="438" rx="22"/></clipPath>
+</defs>
+<style>
+  .mono {font-family: 'DejaVu Sans Mono', Consolas, monospace}
+  .sans {font-family: 'DejaVu Sans', Arial, sans-serif}
+  .flow {stroke-dasharray: 8 180; animation: stream 6s linear infinite}
+  .flow2 {animation-delay: -3s}
+  .pulse {animation: breathe 4s ease-in-out infinite}
+  .cursor {animation: blink 1.6s steps(1) infinite}
+  @keyframes stream {to {stroke-dashoffset:-376}}
+  @keyframes breathe {50% {opacity:.4}}
+  @keyframes blink {50% {opacity:0}}
+  @media (prefers-reduced-motion: reduce) {.flow,.pulse,.cursor {animation:none}}
+</style>
+<g clip-path="url(#round)">
+  <rect width="1200" height="440" fill="url(#bg)"/>
+  <rect width="1200" height="440" fill="url(#grid)"/>
+  <ellipse cx="940" cy="220" rx="340" ry="310" fill="url(#aura)"/>
+  <path d="M0 1H1200" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M32 74H1168M32 376H1168" stroke="#1d303e"/>
+  <g class="mono" font-size="12" letter-spacing="2">
+    <text x="42" y="45" fill="#6ef7d3">[ b. ]</text>
+    <text x="128" y="45" fill="#9ab0bf">SOFTWARE DEVELOPER</text>
+    <text x="1158" y="45" text-anchor="end" fill="#7993a5">BRASIL / MG</text>
+  </g>
+  <g class="sans" font-weight="800" fill="#eff7fc" letter-spacing="-3">
+    <text x="48" y="164" font-size="66">DAVI</text>
+    <text x="44" y="245" font-size="78">BERNARDO<tspan fill="#6ef7d3">.</tspan></text>
+  </g>
+  <text x="49" y="287" class="mono" font-size="17" fill="#79edda" letter-spacing="2">BACKEND &amp; INTELIGÊNCIA ARTIFICIAL</text>
+  <text x="49" y="327" class="sans" font-size="17" fill="#9eafbe">Construindo APIs, assistentes e ferramentas com IA.</text>
+  <g fill="none" stroke="#24474d" stroke-width="1.4">
+    <path d="M710 130H790L838 178"/><path d="M708 289H782L838 233"/>
+    <path d="M985 179L1033 131H1147"/><path d="M985 234L1039 288H1147"/>
+    <path d="M912 112V86"/><path d="M912 304V343"/>
+    <circle cx="912" cy="208" r="125" stroke-dasharray="2 10"/>
+    <circle cx="912" cy="208" r="152" stroke="#19333e" stroke-dasharray="52 13 6 13"/>
+  </g>
+  <g fill="none" stroke="#6ef7d3" stroke-width="2" class="flow">
+    <path d="M710 130H790L838 178"/><path d="M985 234L1039 288H1147"/>
+  </g>
+  <g fill="none" stroke="#73adff" stroke-width="2" class="flow flow2">
+    <path d="M708 289H782L838 233"/><path d="M985 179L1033 131H1147"/>
+  </g>
+  <rect x="825" y="121" width="174" height="174" rx="29" fill="#142d32" opacity=".5" transform="rotate(12 912 208)"/>
+  <rect x="828" y="124" width="168" height="168" rx="25" fill="#0a1620" stroke="#2d535e"/>
+  <rect x="840" y="136" width="144" height="144" rx="17" fill="url(#chip)" stroke="#4dcdb3" stroke-opacity=".6"/>
+  <path d="M890 184L867 208L890 232M934 184L957 208L934 232M921 177L904 239" stroke="#6ef7d3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="969" cy="151" r="4" fill="#6ef7d3" class="pulse"/>
+  <g class="mono" font-size="11" letter-spacing="1" fill="#aec2cf">
+    <rect x="677" y="115" width="83" height="30" rx="7" fill="#0d1a23" stroke="#27434d"/><text x="718" y="135" text-anchor="middle">API</text>
+    <rect x="678" y="274" width="83" height="30" rx="7" fill="#0d1a23" stroke="#27434d"/><text x="720" y="294" text-anchor="middle">DATA</text>
+    <rect x="1080" y="116" width="82" height="30" rx="7" fill="#0d1a23" stroke="#27434d"/><text x="1121" y="136" text-anchor="middle">LLM</text>
+    <rect x="1080" y="273" width="82" height="30" rx="7" fill="#0d1a23" stroke="#27434d"/><text x="1121" y="293" text-anchor="middle">MCP</text>
+  </g>
+  <text x="912" y="345" class="mono" text-anchor="middle" font-size="10" letter-spacing="3" fill="#83a4b5">CODE / CONNECT / CREATE</text>
+  <text x="46" y="412" class="mono" font-size="12" fill="#7898a9">JAVA <tspan fill="#354e5b">/</tspan> SPRING BOOT <tspan fill="#354e5b">/</tspan> PYTHON <tspan fill="#354e5b">/</tspan> LLMs</text>
+  <text x="1157" y="412" text-anchor="end" class="mono" font-size="12" fill="#6ef7d3">~/always-learning <tspan class="cursor">▌</tspan></text>
+</g>
+<rect x=".5" y=".5" width="1199" height="439" rx="22" fill="none" stroke="#2b424f"/>
+</svg>
