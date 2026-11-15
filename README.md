@@ -87,9 +87,34 @@ interesses: Física · Astrofísica · Escrita
 | **IA e automação** | Python · LLMs · MCP · Whisper · Piper · Ollama |
 | **Dados e persistência** | PostgreSQL · MySQL · SQLite · JPA / Hibernate · Entity Framework Core |
 | **Interfaces** | React · TypeScript · JavaScript · Electron |
-| **Ambiente e entrega** | Docker · Linux · Git · GitHub Actions · Maven |
+| **Infraestrutura** | Docker · Kubernetes · Linux · VPS · CI/CD · GitHub Actions |
+| **Arquitetura** | SOLID · Design Patterns · Microserviços · APIs RESTful |
+| **SQL & Dados** | Query otimização · Índices · Transações · Replicação · Backup |
 
-## `04` / IA na prática
+## `04` / Infraestrutura e Arquitetura
+
+**Containerização e orquestração:**
+- Docker para encapsular aplicações com reprodutibilidade em qualquer ambiente
+- Kubernetes para orquestração de contêineres em clusters, escalabilidade horizontal e self-healing
+- Boas práticas: multi-stage builds, security scanning, resource limits
+
+**Linux e VPS:**
+- Gerenciamento de servidores em nuvem (AWS EC2, DigitalOcean, etc.)
+- Network seguro: SSH, firewalls, SSL/TLS
+- Monitoramento, logging e alertas para produção
+
+**Arquitetura de software:**
+- **SOLID** para código limpo, manutenível e extensível
+- Padrões de design: Factory, Singleton, Strategy, Repository, Dependency Injection
+- Microserviços vs Monolito: decisões baseadas em contexto
+
+**Banco de dados:**
+- SQL avançado: JOINs complexos, CTEs, window functions
+- Índices para performance: B-tree, GiST, GIN
+- Transações ACID, isolamento e tratamento de deadlocks
+- Replicação, failover e backups automatizados
+
+## `06` / IA na prática
 
 Meu interesse está em **transformar modelos de IA em ferramentas úteis**: assistentes que usam contexto, conversam por voz e se conectam a outros sistemas.
 
@@ -98,7 +123,7 @@ Meu interesse está em **transformar modelos de IA em ferramentas úteis**: assi
 - **Automações com controle:** trabalhar com permissões, confirmações e registro das ações executadas.
 - **Conhecimento organizado:** estruturar skills, documentação e grafos no Obsidian para apoiar os agentes.
 
-## `05` / Contribuições
+## `07` / Contribuições
 
 <div align="center">
 <picture>
