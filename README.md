@@ -98,6 +98,15 @@ Meu interesse está em **transformar modelos de IA em ferramentas úteis**: assi
 - **Automações com controle:** trabalhar com permissões, confirmações e registro das ações executadas.
 - **Conhecimento organizado:** estruturar skills, documentação e grafos no Obsidian para apoiar os agentes.
 
+## `05` / Contribuições
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviBernardosouzs/DaviBernardosouzs/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/DaviBernardosouzs/DaviBernardosouzs/output/github-snake.svg" alt="snake"/>
+</picture>
+</div>
+
 <br />
 
 ---
